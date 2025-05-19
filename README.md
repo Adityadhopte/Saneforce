@@ -2,13 +2,8 @@
 
 ## Screenshots
 
-<<<<<<< HEAD
-![Screenshot 1]  file:///Users/dhopte/Downloads/ss1%20.jpeg
-![Screenshot 2] 
-=======
 ![Screenshot 1](ss1.jpeg)  
 ![Screenshot 2](ss2.jpeg)  
->>>>>>> 8d19a5b (Add screenshots, video, and README updates)
 
 ## Video Proof
 
