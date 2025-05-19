@@ -2,8 +2,8 @@
 
 ## Screenshots
 
-![Screenshot 1]  /Users/dhopte/Downloads/ss1 .jpeg
-![Screenshot 2] /Users/dhopte/Downloads/ss2.jpeg
+![Screenshot 1]  file:///Users/dhopte/Downloads/ss1%20.jpeg
+![Screenshot 2] 
 
 ## Video Proof
 
