@@ -2,15 +2,10 @@
 
 ## Screenshots
 
-![Screenshot 1](ss1.jpeg)  
-
-
-![Screenshot 2](ss2.jpeg)  
+![Screenshot 1]  /Users/dhopte/Downloads/ss1 .jpeg
+![Screenshot 2] /Users/dhopte/Downloads/ss2.jpeg
 
 ## Video Proof
 
-The video file is in the `videos` folder:  
-[WhatsApp Video](videos/WhatsApp-Video.mp4)  
-
 *Or* you can watch it here:  
-[Watch Video](https://your_video_link_here)
+[Watch Video](videos/WhatsApp-Video.mp4)/Users/dhopte/Downloads/WhatsApp Video 2025-05-14 at 12.52.38 (1) (2).mp4
